@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 arr_macro = "0.1"
+expand-derive = { version = "0.1", path = "expand-derive" }
